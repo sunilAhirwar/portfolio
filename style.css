@@ -189,6 +189,7 @@ li{
 
 .worked-with li img {
   width: 120px;
+  margin-right: 12px;
 }
 
 .image-container-square{
@@ -488,7 +489,7 @@ footer{
   padding: 16px;
   margin-top: 30px;
   text-align: center;
-  background-color: #4f4f4f;
+  background-color: #191818;
   color: #FFF;
 }
 
